@@ -27,9 +27,14 @@ clone blablabla ça me dit que je n'ai aucun fichier dans mon repository
 
 ensuite je glisse mon fichier dans devoir1 sur mon pc 
 
+$ cd devoir1
+
+$ git add .
 
 Riyumi@DESKTOP-96337BN MINGW64 ~/devoir1 (master)
 $ git commit -m "oui"
 [master a1c3ead] oui
  1 file changed, 1 insertion(+)
  create mode 100644 README.md
+
+$ git push  mdp etc voila
