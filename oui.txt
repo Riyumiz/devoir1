@@ -20,3 +20,16 @@ The key fingerprint is:
 
 Riyumi@DESKTOP-96337BN MINGW64 ~ (master)
 $ cat ~/.ssh/id_rsa.pub
+
+$ git clone blablabla
+
+clone blablabla ça me dit que je n'ai aucun fichier dans mon repository
+
+ensuite je glisse mon fichier dans devoir1 sur mon pc 
+
+
+Riyumi@DESKTOP-96337BN MINGW64 ~/devoir1 (master)
+$ git commit -m "oui"
+[master a1c3ead] oui
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
