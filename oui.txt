@@ -1,0 +1,22 @@
+
+Riyumi@DESKTOP-96337BN MINGW64 ~
+$ git init
+Initialized empty Git repository in C:/Users/Riyumi/.git/
+
+Riyumi@DESKTOP-96337BN MINGW64 ~ (master)
+$ generating a new ssh key
+bash: generating: command not found
+
+Riyumi@DESKTOP-96337BN MINGW64 ~ (master)
+$ ssh-keygen -t rsa -b 4096 -C "HAH"
+Generating public/private rsa key pair.
+Enter file in which to save the key (jeej):
+Created directory 'jaaj'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in non
+Your public key has been saved in oui
+The key fingerprint is:
+
+Riyumi@DESKTOP-96337BN MINGW64 ~ (master)
+$ cat ~/.ssh/id_rsa.pub
